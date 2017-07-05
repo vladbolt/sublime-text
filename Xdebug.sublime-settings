@@ -1,0 +1,9 @@
+{
+    // Which port number Sublime Text should listen
+    // to connect with debugger engine.
+    "port": 80,
+    "url": "http://localhost/app_dev.php/",
+	"super_globals": true,
+	"break_on_start": false,
+	"close_on_stop": true,
+}
